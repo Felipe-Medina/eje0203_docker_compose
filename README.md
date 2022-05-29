@@ -2,7 +2,7 @@
 
 ## Para descargar el proyecto eje0203_docker_compose click aqui:
 
-[proyecto_moodle] (https://drive.google.com/file/d/1boLJOd0XLM-M5QiVrpsmydSMaTwJrmBw/view?usp=sharing)
+[proyecto_moodle](https://drive.google.com/file/d/1boLJOd0XLM-M5QiVrpsmydSMaTwJrmBw/view?usp=sharing)
 
 ## Darle permisos a las carpetas
 

@@ -6,8 +6,8 @@
 
 ## Darle permisos a las carpetas
 
-sudo chwon -R systemd-coredump:systemd-coredump mariadb_data
+sudo chown -R systemd-coredump:systemd-coredump mariadb_data
 
-sudo chwon -R daemon:root moodle_data
+sudo chown -R daemon:root moodle_data
 
-sudo chwon -R daemon:root moodledata_data
+sudo chown -R daemon:root moodledata_data
